@@ -34,4 +34,4 @@ Currently looking for **Data Analyst / Junior Data Scientist** opportunities whe
 
 ---
 
-⭐️ Feel free to check out my [resume]([#](https://github.com/machilll/machilll/blob/main/MK-CV..pdf)) or [portfolio]() for the full picture, or reach out — always happy to talk data.
+⭐️ Feel free to check out my [resume](https://github.com/machilll/machilll/blob/main/MK-CV..pdf) or [portfolio](https://github.com/machilll/machilll/blob/main/mahsa-portfolio.html) for the full picture, or reach out — always happy to talk data.
